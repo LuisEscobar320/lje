@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "LuisEscobar320.github.io/lje/static/css/main.5facb584.chunk.css",
+    "main.js": "LuisEscobar320.github.io/lje/static/js/main.cd4d877e.chunk.js",
+    "main.js.map": "LuisEscobar320.github.io/lje/static/js/main.cd4d877e.chunk.js.map",
+    "runtime-main.js": "LuisEscobar320.github.io/lje/static/js/runtime-main.dcd70f1c.js",
+    "runtime-main.js.map": "LuisEscobar320.github.io/lje/static/js/runtime-main.dcd70f1c.js.map",
+    "static/js/2.a85feeb6.chunk.js": "LuisEscobar320.github.io/lje/static/js/2.a85feeb6.chunk.js",
+    "static/js/2.a85feeb6.chunk.js.map": "LuisEscobar320.github.io/lje/static/js/2.a85feeb6.chunk.js.map",
+    "index.html": "LuisEscobar320.github.io/lje/index.html",
+    "precache-manifest.126f488746d56c81a332a9c795e9bdd0.js": "LuisEscobar320.github.io/lje/precache-manifest.126f488746d56c81a332a9c795e9bdd0.js",
+    "service-worker.js": "LuisEscobar320.github.io/lje/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "LuisEscobar320.github.io/lje/static/css/main.5facb584.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcd70f1c.js",
+    "static/js/2.a85feeb6.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.cd4d877e.chunk.js"
+  ]
+}
