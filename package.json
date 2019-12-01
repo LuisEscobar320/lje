@@ -2,7 +2,7 @@
   "name": "my-new-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://LuisEscobar320.github.io/lje",
+  "homepage": "https://LuisEscobar320.github.io/lje",
   "dependencies": {
     "@material-ui/core": "^4.7.0",
     "bootstrap": "^4.4.0",
